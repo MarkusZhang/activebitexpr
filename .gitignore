@@ -1,6 +1,8 @@
 expr_suites/con_abit/saved_models
 expr_suites/con_abit/log
 
+.idea
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
